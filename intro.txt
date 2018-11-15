@@ -6,3 +6,8 @@ untuk persiapan, saya disini menggunakan editor ATOM, dengan package installer A
 
 di sini saya menggunakan Python versi 3, bisa di download disini https://www.python.org/downloads/
 jika sudah install silahkan mulai ke file Hello-world.py
+
+
+daftar isi Pembelajaran
+1. Hello-World.py
+2. data-type.py
