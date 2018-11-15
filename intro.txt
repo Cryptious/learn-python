@@ -13,3 +13,6 @@ daftar isi Pembelajaran
 2. data-type.py
 3. conversion.py
 4. operator-aritmatik.py
+5. operator-pembanding.py
+6. operator-logika.py
+7. operator-bitwise.py
