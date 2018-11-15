@@ -11,3 +11,5 @@ jika sudah install silahkan mulai ke file Hello-world.py
 daftar isi Pembelajaran
 1. Hello-World.py
 2. data-type.py
+3. conversion.py
+4. operator-aritmatik.py
