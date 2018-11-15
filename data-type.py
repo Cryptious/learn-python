@@ -1,3 +1,4 @@
+# Python memiliki tipe data bawaan, silahkan cek script berikut untuk cek tipe datanya
 angka1 = 10
 angka2 = 3.14
 angka3 = 1000000000000000000000
@@ -46,3 +47,7 @@ print (type(data_orang))
 
 print (operator)
 print (type(operator))
+
+# untuk menjalankan, menggunakan command prompt, dan arahkan ke folder project kalian
+# setelah itu ketikan -> python data-type.py -> lalu tekan ENTER
+# SELAMAT MENCOBA ^_^

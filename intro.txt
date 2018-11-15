@@ -1,0 +1,8 @@
+Haloo
+Disini kita akan Belajar Bahasa pemrograman yang sedang naik daun :v
+
+
+untuk persiapan, saya disini menggunakan editor ATOM, dengan package installer Atom Beautify, platformio-ide-terminal.
+
+di sini saya menggunakan Python versi 3, bisa di download disini https://www.python.org/downloads/
+jika sudah install silahkan mulai ke file Hello-world.py
