@@ -12,7 +12,16 @@ daftar isi Pembelajaran
 1. Hello-World.py
 2. data-type.py
 3. conversion.py
+------ OPERATOR --------
 4. operator-aritmatik.py
 5. operator-pembanding.py
 6. operator-logika.py
 7. operator-bitwise.py
+8. operator-assignment.py
+9. operator-membership.py
+10. operator-identitas.py
+-------- KONDISI -----------
+11. if-else.py
+12. if-elif.py
+13. nested-if.py
+14. ternary-operator.py
